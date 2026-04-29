@@ -15,7 +15,7 @@
 
 **Live Site**: https://notsocial.vercel.app
 
-**Github**:
+**Github**:https://github.com/ADEMANI/notsocial
 
 **Presentation Link**:
 
